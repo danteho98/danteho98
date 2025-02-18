@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ho Kai Lin
-- 👀 I’m interested in internships related to Information Technology
+- 👋 Hi there, I’m Ho Kai Lin
 - 🌱 I’m currently learning Java, C# ASP.NET, Python
 
 - 📫 How to reach me
